@@ -34,12 +34,12 @@ end
 
 
 # Person 3
-def my_array_sorting_method(source, thing_to_locate)
-  # Your code here!
+def my_array_sorting_method(source)
+  source.sort { |a,b| a <=> b } 
 end
 
-def my_hash_sorting_method(source, thing_to_locate)
-  # Your code here!
+def my_hash_sorting_method(source, thing_to_sort)
+  source.sort_by { |name, age| age } 
 end
 
 # Identify and describe the ruby method you implemented. 
