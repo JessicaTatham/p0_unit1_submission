@@ -29,10 +29,6 @@ Puts the str variable.
 
 # 2. Initial Solution
 
-
-
-
-# 3. Refactored Solution
 def total(array);
   sum = array.inject{|sum,x| sum + x }
   puts sum
@@ -41,6 +37,18 @@ end
 def sentence_maker(array);
 	str = array.join(" ").capitalize + "."
         puts str
+end
+
+
+# 3. Refactored Solution
+def total(array);
+  sum = array.inject{|sum,x| sum + x }
+  sum
+end
+
+def sentence_maker(array);
+	str = array.join(" ").capitalize + "."
+        str
 end
 
 
