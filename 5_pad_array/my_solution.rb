@@ -67,3 +67,23 @@ end
 
 
 # 4. Reflection 
+#What parts of your strategy worked? What problems did you face?
+    #Jake had already finished this challenge, so he was able to walk me through the more difficult
+    # parts of the challenge. I had a few problems wrapping my brain around how to define the method,
+    # but after a bit of an explaination, I understand why the code works the way it does.
+#What questions did you have while coding? What resources did you find to help you answer them?
+    # I wouldn't have realized that we needed to clone the original clone for the non-destructive 
+    #code, but Jake had previosly done the research, so I didn't even have to go through the frustating
+    # questions.
+#What concepts are you having trouble with, or did you just figure something out? If so, what?
+    # There were a lot of new consepts to wrap my head around in this challenge. It would have take me
+    # a very long time to figure out to place both of the methods in a class, or set pad_value to nil,
+    # without Jakes help. I think I would benefit from some tutorials in this.
+#Did you learn any new skills or tricks?
+    # The .clone trick is pretty cool!
+#How confident are you with each of the learning objectives?
+    #I feel confident in the learning objectives.
+#Which parts of the challenge did you enjoy?
+    #I enjoyed pairing on this challenge, and I enjoyed learning about destructive and non-destructive codes.
+#Which parts of the challenge did you find tedious?
+    #nothing
