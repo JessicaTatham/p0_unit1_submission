@@ -36,6 +36,7 @@ end
 
 
 # 3. Refactored Solution
+
 def median(array)
 	mid = array.sort!
 	len = mid.length
