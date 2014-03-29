@@ -91,3 +91,28 @@ end
 
 
 # 5. Reflection
+
+#What parts of your strategy worked? What problems did you face?
+	# It took a while before I could find someone elses code that was different to mine. It seemed like most people
+	#had the same kind of ideas on how to complete this challenge. I just kept snooping through everyones code until 
+	# I found differences, and then it was just a case of finding differences that I wanted to implament.
+
+#What questions did you have while coding? What resources did you find to help you answer them?
+	#no questions because it was just refactoring.
+
+#What concepts are you having trouble with, or did you just figure something out? If so, what?
+	#nothing
+	
+#Did you learn any new skills or tricks?
+	#I didn't realize that you can condense your code so much. THe way that my brain works is that I like to see each
+	# piece of the code so that I can follow it, kind of like reading a book. I guess that as I become more advanced
+	# it will be easier to follow this more condensed code, but for now, it slightly confuses me.
+
+#How confident are you with each of the learning objectives?
+	# I feel pretty confident.
+	
+#Which parts of the challenge did you enjoy?
+	# I enjoyed snooping through other peoples code.
+	
+#Which parts of the challenge did you find tedious?
+	# These reflection questions are getting a bit boring to answer over and over again.
