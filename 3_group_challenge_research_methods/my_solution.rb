@@ -1,4 +1,3 @@
-
 # Person 3
 def my_array_sorting_method(source)
   source.sort { |a,b| a <=> b } 
@@ -11,8 +10,7 @@ end
 # Identify and describe the ruby method you implemented. 
 # 
 # We used the .sort and .sort_by method. The .sort method will sort the arrays in alphabetical order. The sort_by method
-# can be used to sort the array by a certain piece of the array.
-#
+# can be used to sort the array by  a portion of the hash.
 
 
 
