@@ -1,5 +1,4 @@
 
-
 # Person 3
 def my_array_sorting_method(source)
   source.sort { |a,b| a <=> b } 
@@ -33,7 +32,9 @@ p my_deletion_method(my_family_pets_ages, "George") == {"Evi" => 8, "Hoobie" => 
 
 # Reflect!
 # 
-# 
+# My portion of this group project was relatively straight forward. I feel comfortable more with the .sort and .sort_by methods
+# after completing this challenge. My major frustration with this challenge was that I couldn't figure out how to test my code.
+
 # 
 # 
 # 
