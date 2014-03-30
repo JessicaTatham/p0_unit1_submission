@@ -47,9 +47,6 @@ var Client = function(name, age, quote) {
     this.name = name;
     this.age = age;
     this.quote = quote;
-    this.display = function() {
-        alert("Our client is "+name + " and they are "+age+ " years old. Their most famous quote is "+ quote+".");
-        };
 }
  
 var shooterMcGavin = new Client("Shooter McGavin", 48, "Just stay out of my way... or you'll pay. Listen to what I say.");
